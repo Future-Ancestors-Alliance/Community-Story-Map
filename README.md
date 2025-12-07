@@ -111,3 +111,29 @@ Once Challenge 1 is complete:
 ```bash
 npm install
 npm run dev
+
+From there:
+
+Load the map
+
+Click points
+
+Explore challenges
+
+🌱 Future Direction
+
+Eventually:
+
+Map point data here will follow a full ResourceRef format
+
+Policies and consent rules will be introduced
+
+This repo will serve as a template for:
+
+Community maps
+
+Language maps
+
+Story maps
+
+Environmental knowledge maps
